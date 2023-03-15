@@ -1,0 +1,19 @@
+h1 {
+  font-size: 36px;
+  font-family: monospace;
+}
+.header {
+  font-size: 24px;
+  font-style: italic;
+  font-family: monospace;
+  font-weight: 200;
+}
+.important {
+  font-size: 90%;
+  font-family: sans-serif;
+}
+
+.player {
+  color: blue;
+  font-weight: bold;
+}
