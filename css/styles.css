@@ -6,8 +6,10 @@ h1 {
   width: 20%;
   float:right;
   background-color:aqua;
-  border: 2px grey;
+  border:solid black;
+  border-width: 1px;
   padding: 4px;
+  box-sizing: border-box;
 }
 .header {
   font-size: 24px;
