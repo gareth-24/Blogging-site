@@ -2,6 +2,11 @@ h1 {
   font-size: 36px;
   font-family: monospace;
 }
+.sidebar {
+  width: 20%;
+  float:right;
+  background-color:aqua;
+}
 .header {
   font-size: 24px;
   font-style: italic;
@@ -11,6 +16,10 @@ h1 {
 .important {
   font-size: 90%;
   font-family: sans-serif;
+}
+.column {
+  width: 300px;
+  float: left;
 }
 .player {
   color: navy;
