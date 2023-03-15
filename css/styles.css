@@ -6,6 +6,8 @@ h1 {
   width: 20%;
   float:right;
   background-color:aqua;
+  border: 2px grey;
+  padding: 4px;
 }
 .header {
   font-size: 24px;
@@ -13,13 +15,11 @@ h1 {
   font-family: monospace;
   font-weight: 200;
 }
-.important {
-  font-size: 90%;
-  font-family: sans-serif;
-}
 .column {
   width: 300px;
   float: left;
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
 .player {
   color: navy;
@@ -29,11 +29,7 @@ h1 {
   color: red;
   font-weight: bold;
 }
-.sea {
-  font-weight: 700;
-  font-size: 120%;
-}
-.visitor {
+.team {
   font-weight: 700;
   font-size: 120%;
 }
